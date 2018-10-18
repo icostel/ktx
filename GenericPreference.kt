@@ -1,5 +1,3 @@
-package com.xspero.xspero
-
 import android.content.Context
 import android.content.SharedPreferences
 import com.google.gson.Gson
